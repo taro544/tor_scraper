@@ -18,7 +18,7 @@ A concurrent web scraper for .onion sites using Tor network.
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/taro544/tor_scraper.git
 cd tor_scraper
 go mod download
 ```
